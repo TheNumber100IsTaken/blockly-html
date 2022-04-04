@@ -24,13 +24,13 @@ Msg = {
       "message0": "document %1 header %2 %3 content %4 %5",
     },
     "html": {
-      "message0": "document %1 %2",
+      "message0": "!document HTML %1 %2",
     },
     "body": {
-      "message0": "content %1 %2",
+      "message0": "site content %1 %2",
     },
     "head": {
-      "message0": "header %1 %2",
+      "message0": "site info %1 %2",
     },
     "title": {
       "message0": "title %1",
@@ -45,7 +45,7 @@ Msg = {
       "message0": "division %1 %2",
     },
     "style": {
-      "message0": "style =  %1 %2",
+      "message0": "styles  %1 %2",
       "tooltip": "",
       "helpUrl": ""
     },
@@ -118,7 +118,7 @@ Msg = {
       "helpUrl": "http://www.w3schools.com/tags/tag_html.asp"
     },
     "headline": {
-      "message0": "headline %1 %2 %3",
+      "message0": "heading %1 %2 %3",
       "tooltip": "",
       "helpUrl": "http://www.w3schools.com/tags/tag_html.asp",
       "args0": [{"options": [
